@@ -1,4 +1,4 @@
-## Programs done using Classic OpenGL
+## Programs compeleted using Classic OpenGL
 
 * These are programs done in order to apply everything I've learned about Computer Graphics and OpenGL.
   * Broadly, the programs show various applications of:
