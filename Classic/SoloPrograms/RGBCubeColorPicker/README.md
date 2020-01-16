@@ -8,4 +8,7 @@
   ![Cube after altering intensity in variable scale state](https://github.com/VarunRamakri7/OpenGL/blob/master/Classic/SoloPrograms/RGBCubeColorPicker/images/postScaleAlter.png)
   ![Cube after altering intensity in fixed scale state](https://github.com/VarunRamakri7/OpenGL/blob/master/Classic/SoloPrograms/RGBCubeColorPicker/images/postIntensityAlter.png)
   * The viewing mode alters the rotation of the cube. Each rotation has a different range of colors tp pick from.
-  ![After rotation](https://github.com/VarunRamakri7/OpenGL/blob/master/Classic/SoloPrograms/RGBCubeColorPicker/images/postViewingAlter.png)
+  * Different viewing modes:
+  ![Viewing modes](https://github.com/VarunRamakri7/OpenGL/blob/master/Classic/SoloPrograms/RGBCubeColorPicker/images/postViewingModes.png)
+  * After picking a viewing mode:
+    ![After rotation](https://github.com/VarunRamakri7/OpenGL/blob/master/Classic/SoloPrograms/RGBCubeColorPicker/images/postViewingAlter.png)
