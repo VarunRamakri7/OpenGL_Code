@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\ramakri7\Documents\Github_Desk_Dir\OpenGL\SoloPrograms\Rollercoaster\Rollercoaster\main.cpp(188,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ramakri7\Documents\Github_Desk_Dir\OpenGL\SoloPrograms\Rollercoaster\Rollercoaster\main.cpp(197,67): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ramakri7\Documents\Github_Desk_Dir\OpenGL\SoloPrograms\Rollercoaster\Rollercoaster\main.cpp(197,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\ramakri7\Documents\Github_Desk_Dir\OpenGL\SoloPrograms\Rollercoaster\Rollercoaster\main.cpp(417,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ramakri7\Documents\Github_Desk_Dir\OpenGL\SoloPrograms\Rollercoaster\Rollercoaster\main.cpp(418,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ramakri7\Documents\Github_Desk_Dir\OpenGL\SoloPrograms\Rollercoaster\Rollercoaster\main.cpp(525,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ramakri7\Documents\Github_Desk_Dir\OpenGL\SoloPrograms\Rollercoaster\Rollercoaster\main.cpp(525,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Rollercoaster.vcxproj -> C:\Users\ramakri7\Documents\Github_Desk_Dir\OpenGL\SoloPrograms\Rollercoaster\Debug\Rollercoaster.exe
